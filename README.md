@@ -50,7 +50,7 @@ Add screenshots of your charts here, for example:
 
 ## What I learned
 
-- Creating and manipulating DataFrames with pandas
+- Creating and manipulating DataFrames with pandas.
 - Plotting bar charts and scatter plots with matplotlib
 - Labeling axes and adding titles to charts
 
